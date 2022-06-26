@@ -1,4 +1,4 @@
-
+//Datatypes
 public class Datatype {
 
 	public static void main(String[] args) {
