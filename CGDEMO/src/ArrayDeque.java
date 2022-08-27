@@ -5,7 +5,7 @@ public class ArrayDeque {
 
 	public static void main(String[] args) {
 		
-		Deque<Integer> de_que = new ArrayDeque<Integer>(10);
+		Deque<int> de_que = new ArrayDeque<int>(10);
 		de_que.add(10);
 		de_que.add(20);
 		de_que.add(30);
